@@ -41,7 +41,7 @@ if songs.include? input
   elsif num.include? input
   puts "Playing #{songs[(input.to_i-1)]}"
 else
-  "Invalid input, please try again"
+  puts "Invalid input, please try again"
 end
 
 
