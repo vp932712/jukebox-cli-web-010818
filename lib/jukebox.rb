@@ -61,7 +61,7 @@ if input1 == "list"
   list
 elsif input1 == "play"
   play
-elsif inpput1 == "exit"
+elsif input1 == "exit"
   exit_jukebox
 end
 end
